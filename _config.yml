@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ""
-description: ""
-keywords:
-author: John Doe
-language: en
+title: Crazy Wang
+subtitle: "A Blog Of Crazy Wang"
+description: "A Blog Of Crazy Wang"
+keywords: 前端开发,生活,兴趣爱好,博客,旅游,手作,游戏
+author: Crazy Wang
+language: zh-cn
 timezone: ""
 
 # URL
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
