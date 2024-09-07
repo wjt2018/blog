@@ -10,7 +10,7 @@ hexo.extend.filter.register('before_generate', () => {
     highlight_copy: true,
     highlight_lang: true,
     highlight_shrink: false,
-    highlight_height_limit: false,
+    highlight_height_limit: 200,
     code_word_wrap: false,
     social: null,
     favicon: '/img/favicon.png',
