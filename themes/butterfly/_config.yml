@@ -152,7 +152,7 @@ toc:
   post: true
   page: true
   number: true
-  expand: false
+  expand: true
   style_simple: false # for post
   scroll_percent: true
 
@@ -407,13 +407,13 @@ addtoany:
 comments:
   # Up to two comments system, the first will be shown as default
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
-  use: # Valine,Disqus
+  use: Twikoo
   text: true # Display the comment name next to the button
   # lazyload: The comment system will be load when comment element enters the browser's viewport.
   # If you set it to true, the comment count will be invalid
-  lazyload: false
-  count: false # Display comment count in post's top_img
-  card_post_count: false # Display comment count in Home Page
+  lazyload: true
+  count: true # Display comment count in post's top_img
+  card_post_count: true # Display comment count in Home Page
 
 # disqus
 # https://disqus.com/
@@ -484,8 +484,9 @@ facebook_comments:
 
 # Twikoo
 # https://github.com/imaegoo/twikoo
+# Hugging Face 大陆访问速度不太理想。。。
 twikoo:
-  envId:
+  envId: https://jingting98-crazywangblog.hf.space
   region:
   visitor: false
   option:
