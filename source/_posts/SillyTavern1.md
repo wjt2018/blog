@@ -66,9 +66,13 @@ git clone https://github.com/SillyTavern/SillyTavern.git
 |最大回复|4096|4096|
 
 #### 使用cookie
-目前的情况是这样的，每一个cookie一般进行十几次二十次对话以后它就会进入3、4小时的冷却，所以一般如果要使用cookie的话需要一次性注册很多个账户可能才够用。
+目前的情况是这样的，普通每一个cookie一般进行十几次二十次对话以后它就会进入3、4小时的冷却，所以一般如果要使用cookie的话需要一次性注册很多个账户可能才够用。
 
 想要获取cookie可以自行进行Claude注册来获取，或者淘宝购买两种方式。
+
+论坛里现在很多人使用的是claude pro退款流，据说不会那么快进入冷却，且性价比较高，我还没有尝试过，感兴趣的同学可以试试，教程放在这里：
+https://rentry.org/8t4a5toi
+https://rentry.co/zbfn8te4
 
 但是我不太推荐自行进行Claude注册来进行获取方式，国内用户注册起来比较麻烦，而且很容易被封号。我这里放一个教程，想尝试的可以看看[注册/抓取曲奇](https://sqivg8d05rm.feishu.cn/wiki/HST5wAAxeibfzEkrCvHcIU8dnge)
 
@@ -80,6 +84,8 @@ clew的使用方法是下载下来以后在config.js里以``["Cookie1","Cookie2"
 ![img](https://oydqrbee757owwwj.public.blob.vercel-storage.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240907153238-e2xC1aHbAkkb8z0I4CbVugOV2wLFh5.png)
 
 
-至此，实现了可以在酒馆中和ai对话的功能。但是酒馆可以做的不仅仅只有这么点，下一篇将告诉大家如何进行破限和导入角色。
+至此，实现了可以在酒馆中和ai对话的功能。但是酒馆可以做的不仅仅只有这么点，下一篇将告诉大家如何进行破限和导入角色。遇到问题可以在下方进行留言。
 
 more info：[宝宝教程](https://sqivg8d05rm.feishu.cn/wiki/BBocw85QTiA8EXkNcUZcT2pCnIe)
+https://docs.sillytavern.app/
+https://www.bilibili.com/read/cv28322654/
