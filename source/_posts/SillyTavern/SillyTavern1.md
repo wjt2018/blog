@@ -1,5 +1,6 @@
 ---
 title: SillyTavern酒馆教程(一) - 快速开始
+date: 2024-9-7
 cover: https://oydqrbee757owwwj.public.blob.vercel-storage.com/Snipaste_2024-09-07_13-48-05-SQWMYnATqu78zzoqVytrFZof5T21WC.png
 categories: 
   - AI

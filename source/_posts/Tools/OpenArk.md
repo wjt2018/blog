@@ -1,5 +1,6 @@
 ---
 title: 工具箱系列 - OpenArk管理系统热键
+date: 2024-9-15
 cover: /images/post/tools/tools-cover.png
 top_img: /images/post/tools/tools-background.png
 categories: 
