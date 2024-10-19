@@ -1,0 +1,8 @@
+# robots.txt generated at http://www.w3cschool.cn/
+
+User-agent: *
+Crawl-delay: 120
+
+Disallow: /images/
+
+Sitemap: https://wjt2018.github.io/blog/sitemap.xml
