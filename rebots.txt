@@ -1,6 +1,9 @@
 User-agent: *
 Crawl-delay: 120
 
+Disallow: /css/
+Disallow: /js/
 Disallow: /images/
+Disallow: /img/
 
 Sitemap: https://wjt2018.github.io/blog/sitemap.xml
