@@ -7,3 +7,4 @@ Disallow: /images/
 Disallow: /img/
 
 Sitemap: https://wjt2018.github.io/blog/sitemap.xml
+Sitemap: https://crazy-wang.top/sitemap.xml
