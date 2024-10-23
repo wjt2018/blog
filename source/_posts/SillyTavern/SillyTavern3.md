@@ -1,14 +1,16 @@
 ---
 title: SillyTavern酒馆教程(三) - 给角色形象和声音
 date: 2024-9-9
-cover: https://oydqrbee757owwwj.public.blob.vercel-storage.com/Snipaste_2024-09-07_13-48-05-SQWMYnATqu78zzoqVytrFZof5T21WC.png
-categories: 
+cover: >-
+  https://oydqrbee757owwwj.public.blob.vercel-storage.com/Snipaste_2024-09-07_13-48-05-SQWMYnATqu78zzoqVytrFZof5T21WC.png
+categories:
   - AI
-tags: 
+tags:
   - SillyTavern酒馆
   - live2D
   - GPT-SoVITS
   - webTTS
+abbrlink: 759
 ---
 通过之前的两篇教程，相必大家现在已经可以正常和ai角色进行对话了，但是我们怎么能止步于此？本篇来教大家如何给自己的ai角色自己喜欢的形象和声音。
 ## 设置形象
@@ -20,15 +22,15 @@ tags:
 - https://github.com/Eikanya/Live2d-model
 
 将下载下来的所有内容放到**SillyTavern\data\default-user\assets\live2d**目录下
-![](images/post/ai/Snipaste_2024-09-08_10-39-14.png)
+![](https://tvax2.sinaimg.cn/large/005FcNj6ly1huwlcmxtl4j30wq0idaho.jpg)
 
 ### 导入酒馆
 先确保梯子打开了，然后按照下图进行配置
-![](images/post/ai/f21e95e8-fed6-49d6-adfb-67f06a8e2772.png)
+![](https://tvax4.sinaimg.cn/large/005FcNj6ly1huwld5yjd3j30rj0b7106.jpg)
 然后在这里会出现很多可以供下载的插件，选择live2d进行下载。
 
 刷新页面，在扩展里可以看到live2D的插件，打开以后按图示进行配置
-![](images/post/ai/Snipaste_2024-09-08_10-43-15.png)
+![](https://tvax3.sinaimg.cn/large/005FcNj6ly1huwldo27mmj30dk0l2tdf.jpg)
 
 ## 接入声音
 webTTS是b站一个听书狂魔基于GPT-SoVITS做的，这是他的主页：https://space.bilibili.com/3031494
@@ -310,7 +312,7 @@ class GSVITtsProvider {
 ```
 
 请注意代码的254、255、256行代码，请按照需求自己更改
-![](images/post/ai/Snipaste_2024-09-08_11-20-21.png)
+![](https://tvax1.sinaimg.cn/large/005FcNj6ly1huwlebmb82j31bj0bi15k.jpg)
 
 ### 下载webTTS
 在这里进行下载：[WebTTS文档](https://yxi3w0wmgv2.feishu.cn/wiki/JilfwWyNRiTWlkkheeUck40qnaf)
@@ -318,15 +320,15 @@ class GSVITtsProvider {
 下载完以后，将**整合包/GPT-SoVITS-TTS.rar**解压。然后双击打开**GPT-SoVITS-TTS/webtts_v2/TTS2.16.0.exe**
 
 这里双击TTS2.16.0.exe以后会弹出两个程序框，在可以交互的程序框里，按照上面文档里作者给出的进行配置。之后点击“信息”然后点击“WebTTS，启动！”，这时浏览器会弹出一个localhost:8080的网页。这样就可以进行下一步了。
-![](images/post/ai/Snipaste_2024-09-08_11-25-16.png)
+![](https://tvax3.sinaimg.cn/large/005FcNj6ly1huwlf7tlw7j31hc0rwn7k.jpg)
 
 ### 在酒馆中配置
 
 按下图进行配置
-![](images/post/ai/Snipaste_2024-09-08_11-32-21.png)
+![](https://tvax3.sinaimg.cn/large/005FcNj6ly1huwlfhmvcxj30qk0nc45e.jpg)
 
 然后点击**Available voices**以后，可以看到作者默认导入的这些声音模型，即代表成功了。这时可以让绑定了声音的角色在对话框说一句话试试看，不要直接点击下图这个界面的模型播放按钮，作者说这里点了不出声是正常的。
-![](images/post/ai/Snipaste_2024-09-08_11-33-28.png)
+![](https://tvax3.sinaimg.cn/large/005FcNj6ly1huwlfthnq9j30ma0o9gsk.jpg)
 
 ### 添加自己的声音模型
 首先，先去网络上寻找自己喜欢的声音模型，如果会自己训练模型的当我没说。
@@ -334,10 +336,10 @@ class GSVITtsProvider {
 这里放一个链接，里面有很多模型，可以去其他地方找找：https://www.yuque.com/baicaigongchang1145haoyuangong/ib3g1e/nwnaga50cazb2v93
 
 下载下来模型以后，查看模型文件里一般有.pht和.ckpt和一些.wav文件。这里需要将.wav文件按照**语气#语言#文本.wav**进行重命名。将模型文件夹放在**GPT-SoVITS-TTS\models**文件夹里，
-![](images/post/ai/Snipaste_2024-09-08_11-42-49.png)
+![](https://tvax4.sinaimg.cn/large/005FcNj6ly1huwlg3n5rtj30mc0b2q6i.jpg)
 
 此时再去webTTS的localhost:8080或者酒馆的tts插件里都会看到新的模型。
-![](images/post/ai/Snipaste_2024-09-08_11-45-01.png)
+![](https://tvax4.sinaimg.cn/large/005FcNj6ly1huwlgcjjxkj30ke0nx7b4.jpg)
 
 more info: 
   - [酒馆live2D教程](https://sqivg8d05rm.feishu.cn/wiki/UvRPwWomOiGIxmkuJAJcfpwynkd)

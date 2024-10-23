@@ -12,7 +12,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/jerryc127/CDN@m2/img/theme-butterfly-readme.png)
 
-📢 預覽: [Butterfly](https://butterfly.js.org/) || [CrazyWong](https://blog.crazywong.com/)
+📢 預覽: [Butterfly](https://butterfly.js.org/) || [CrazyWong](https://crazy-wang.top/)
 
 📖 文檔: [中文](https://butterfly.js.org/posts/21cfbf15/) || [English](https://butterfly.js.org/en/posts/butterfly-docs-en-get-started/)
 

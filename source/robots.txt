@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-delay: 120
+
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Disallow: /img/
+
+Sitemap: https://crazy-wang.top/sitemap.xml

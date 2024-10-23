@@ -6,15 +6,15 @@
 title: Crazy Wang
 subtitle: "A Blog Of Crazy Wang"
 description: "A Blog Of Crazy Wang"
-keywords: 前端开发,生活,兴趣爱好,博客,旅游,手作,游戏
+keywords: 前端开发,生活,兴趣爱好,博客,旅游,手作,游戏,二次元,女性
 author: Crazy Wang
 language: zh-CN
-timezone: ""
+timezone: "Asia/ShangHai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://wjt2018.github.io/blog
-permalink: :year/:month/:day/:title/
+url: https://crazy-wang.top
+permalink: posts/:abbrlink/ 
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -104,3 +104,10 @@ deploy:
   type: git
   repo: https://github.com/wjt2018/blog.git
   branch: gh-pages
+sitemap:
+  path: sitemap.xml
+  tag: false
+  category: false
+nofollow:
+  enable: true  #true/false 启用/关闭插件
+  field: site   #site/post  处理全站/仅文章链接

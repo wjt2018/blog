@@ -1,19 +1,20 @@
 ---
 title: 如何在Wordpress里加载live2d看板娘模型（支持moc和moc3模型）
-date: 2024-10-19
 cover: /images/post/za/community-img-community-en.jpg
 top_img: /images/post/za/undefined_image.png
-keywords: wordpress, live2d, 看板娘, 看板君, 桌宠, 个人博客
+keywords: 'wordpress,live2d,看板娘,看板君,桌宠,个人博客'
 categories:
   - 杂物
 tags:
   - Wordpress
   - live2D
+abbrlink: 47656
+date: 2024-10-19 00:00:00
 ---
 
 最近想要给乌鲁鲁星网站添加一个 live2d 的看板君，但是拿到的模型是 mod3 新格式的，找了一圈大多数教程都是 Cubism 2 版本的 Live2d 模型，其实官方早已经用 Cubism 4 版本的 Live2d 了，故写一篇教程来记录如何在 wordpress 里面添加 mod3 新格式的模型。
 
-![](images/post/za/2024-10-19-21-38-43.gif)
+![](https://oydqrbee757owwwj.public.blob.vercel-storage.com/2024-10-19-21-38-43-KLrSKce16XY3fdisELzdvXP5kS9OtD.gif)
 
 ## 第一步，确定你的 live2D 模型是什么旧模型还是新模型
 
@@ -26,7 +27,7 @@ tags:
 因为现在大多数都是使用 moc3 的新格式模型了，所以文本会侧重 moc3 模型进行阐述。
 
 一般一个新格式live2d模型文件会有如下这些文件：
-![](images/post/za/Snipaste_2024-10-19_21-21-34.png)
+![](https://tvax4.sinaimg.cn/large/005FcNj6ly1huwl2khfk2j30vi0ssk43.jpg)
 
 ## wordpress 载入 live2d 方式一： wordpress 插件 [live2dweb](https://cn.wordpress.org/plugins/live-2d/)
 
@@ -34,7 +35,7 @@ tags:
 
 在 wordpress 里加入这个插件（不会安装插件的朋友出门另寻教程），可以看到有非常多设置，可以非常方便的进行定义，可谓是真傻瓜式开箱即食。
 
-![](images/post/za/Snipaste_2024-10-19_17-18-15.png)
+![](https://tvax3.sinaimg.cn/large/005FcNj6ly1huwl4g444nj30xa0tjdsr.jpg)
 
 ## wordpress 载入 live2d 方式二：[oh my live2d](https://github.com/oh-my-live2d/oh-my-live2d)
 
