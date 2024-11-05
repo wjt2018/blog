@@ -11,7 +11,7 @@ abbrlink: 27000
 ---
 
 珍藏了多年的沙雕音乐合集献上，横扫烦恼一起颠！
-![](https://tvax3.sinaimg.cn/large/005FcNj6ly1huwl5sjqs4j30jo08hwi2.jpg)
+![](https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/005FcNj6ly1huwl5sjqs4j30jo08hwi2.jpg)
 https://music.163.com/playlist?id=2005917265&uct2=U2FsdGVkX19oZMmMKgLy90NgPxifH5XHqlEn324JvSs=
 
 

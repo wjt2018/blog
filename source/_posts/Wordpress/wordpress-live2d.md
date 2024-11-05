@@ -27,7 +27,7 @@ date: 2024-10-19 00:00:00
 因为现在大多数都是使用 moc3 的新格式模型了，所以文本会侧重 moc3 模型进行阐述。
 
 一般一个新格式live2d模型文件会有如下这些文件：
-![](https://tvax4.sinaimg.cn/large/005FcNj6ly1huwl2khfk2j30vi0ssk43.jpg)
+![](https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/005FcNj6ly1huwl2khfk2j30vi0ssk43.jpg)
 
 ## wordpress 载入 live2d 方式一： wordpress 插件 [live2dweb](https://cn.wordpress.org/plugins/live-2d/)
 
@@ -35,7 +35,7 @@ date: 2024-10-19 00:00:00
 
 在 wordpress 里加入这个插件（不会安装插件的朋友出门另寻教程），可以看到有非常多设置，可以非常方便的进行定义，可谓是真傻瓜式开箱即食。
 
-![](https://tvax3.sinaimg.cn/large/005FcNj6ly1huwl4g444nj30xa0tjdsr.jpg)
+![](https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/005FcNj6ly1huwl4g444nj30xa0tjdsr.jpg)
 
 ## wordpress 载入 live2d 方式二：[oh my live2d](https://github.com/oh-my-live2d/oh-my-live2d)
 
