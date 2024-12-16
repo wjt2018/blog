@@ -25,12 +25,12 @@ OpenArk可以快速看到目前有的热键及其信息，并且可以快速对�
 
 另外个别杀毒软件可能会组织进入内核模式，比如火绒，记得把火绒先关掉。
 
-![](https://tvax2.sinaimg.cn/large/005FcNj6ly1huwlmd16xpj315w0q9dsj.jpg)
+![](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/005FcNj6ly1huwlmd16xpj315w0q9dsj.jpg)
 
 接着就可以看到目前所有的热键，右键点击热键还可以对它进行管理。
 
 😏找到被占用的热键删他丫的！系内！
 
-![](https://tvax2.sinaimg.cn/large/005FcNj6ly1huwlmjpkmsj30c30djaer.jpg)
+![](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/005FcNj6ly1huwlmjpkmsj30c30djaer.jpg)
 
 ps: OpenArk还有很多其他强大的功能，但是目前我用不上。

@@ -19,8 +19,8 @@ SillyTavern 是一个可以安装在电脑（和安卓手机）上的用户界�
 
 由于 SillyTavern 只是一个用户聊天界面，它对硬件性能的要求很低，可以在任何电脑上运行。需要强大性能的是人工智能系统。
 
-![](https://tvax1.sinaimg.cn/large/005FcNj6ly1huwlkf4ihtj31g70r8e7c.jpg)
-![](https://tvax2.sinaimg.cn/large/005FcNj6ly1huwlkquv3oj31g70r8az1.jpg)
+![](https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/005FcNj6ly1huwlkf4ihtj31g70r8e7c.jpg)
+![](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/005FcNj6ly1huwlkquv3oj31g70r8az1.jpg)
 
 ## 环境准备
 
@@ -58,7 +58,7 @@ git clone https://github.com/SillyTavern/SillyTavern.git
 现在的酒馆已经部署好了，但是他并不具备 ai 的能力，也就是现在它还没有大脑，如果想要在这里能够正常聊天需要给他把大脑装上。
 
 现在一般大家公认的进行角色扮演最优秀的大语言模型是 Claude，所以接下来就以 Claude 进行演示。想要深入了解不同大语言 LLM 之间的区别可以看看这个：[主流大语言模型对比](https://github.com/wsxqaza12/Comparison-of-LLM-Specifications?tab=readme-ov-file)。
-![LLM对比](https://tvax2.sinaimg.cn/large/005FcNj6ly1huwllff9ufj30om0zk7hj.jpg)
+![LLM对比](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/005FcNj6ly1huwllff9ufj30om0zk7hj.jpg)
 
 想要将 Claude 的服务接进酒馆里一般有两种方案，一种是使用 cookie，一种是使用 api。我推荐的是直接淘宝购买 api 来使用，虽然贵一点但是稳定方便。
 

@@ -11,11 +11,11 @@ abbrlink: 51233
 ---
 
 ## 为什么要进行破限？
-首先，我们要知道，目前主流大公司的大语言模型在出厂时，都会给他们设定一系列的基础规则，例如chatgpt的规则如下![chatgpt rules](https://tvax2.sinaimg.cn/large/005FcNj6ly1huwlhp2qaej30uw0n9k1e.jpg)
+首先，我们要知道，目前主流大公司的大语言模型在出厂时，都会给他们设定一系列的基础规则，例如chatgpt的规则如下![chatgpt rules](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/005FcNj6ly1huwlhp2qaej30uw0n9k1e.jpg)
 Openai policies: https://openai.com/zh-CN/policies/usage-policies/
 
 这些规则我们在此简称为“思想钢印”，这会严重影响我们的某些体验。比如我问它如何制造炸弹，他并不会告诉我们。
-![](https://tvax2.sinaimg.cn/large/005FcNj6ly1huwlh8nnraj30wq071t9g.jpg)
+![](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/005FcNj6ly1huwlh8nnraj30wq071t9g.jpg)
 
 为了拥有更好的体验，所以需要对ai去除“思想钢印”，也就是破限。没错，~~涩涩就是生产力！~~（不是）
 
@@ -604,7 +604,7 @@ Openai policies: https://openai.com/zh-CN/policies/usage-policies/
 ```
 ### 第二步，将破限文件导入酒馆
 然后打开酒馆中第一个按钮，点击“导入”，将这个json文件导入进去，最后再点击插头的按钮，检查一下连接是否还正常，如果连接断了就按照之前的配置使连接恢复正常即可。这样就完成了破限操作。
-![](https://tvax2.sinaimg.cn/large/005FcNj6ly1huwlidd9ukj30sz0o6k41.jpg)
+![](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/005FcNj6ly1huwlidd9ukj30sz0o6k41.jpg)
 
 ## 导入角色卡
 ### 获取角色卡
@@ -612,15 +612,15 @@ Openai policies: https://openai.com/zh-CN/policies/usage-policies/
 - 外国角色卡：https://www.characterhub.org/
 
 注意：角色卡下载下来以后都是png格式。这里放两张角色卡：
-![](https://tvax4.sinaimg.cn/large/005FcNj6ly1huwliqqofej30e80lctka.jpg)
-![](https://tvax3.sinaimg.cn/large/005FcNj6ly1huwlj2bvfmj30e80lck09.jpg)
+![](https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/005FcNj6ly1huwliqqofej30e80lctka.jpg)
+![](https://image.baidu.com/search/down?url=https://tvax3.sinaimg.cn/large/005FcNj6ly1huwlj2bvfmj30e80lck09.jpg)
 
 ### 导入角色卡
 按照如下步骤将png角色卡导入到酒馆中
-![](https://tvax2.sinaimg.cn/large/005FcNj6ly1huwljbequ6j30ih083jto.jpg)
+![](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/005FcNj6ly1huwljbequ6j30ih083jto.jpg)
 
 当看到弹出导入成功，并且角色卡列表里出现了导入的角色时代表导入成功。有些角色卡会带世界书和破限，这时会弹出一些弹窗问你是否要导入这些，直接点yes就行。
-![](https://tvax4.sinaimg.cn/large/005FcNj6ly1huwljl39pmj313x0cetgd.jpg)
+![](https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/005FcNj6ly1huwljl39pmj313x0cetgd.jpg)
 
 ### 什么？找不到喜欢的角色？想要自己定义？
 
